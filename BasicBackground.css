@@ -1,6 +1,6 @@
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url(https://raw.githubusercontent.com/kgungor34/BD/master/SettingsIcons.css);
+@import url(https://raw.githubusercontent.com/kgungor34/BD/master/UsrBgs.css);
+@import url(https://raw.githubusercontent.com/kgungor34/BD/master/BlurpleRecolor.css);
 
 :root {
 	--transparencycolor:			0,0,0;
@@ -30,7 +30,7 @@
 	--textdarker: 					125,125,125;
 	--textdarkest: 					90,90,90;
 	
-	--background:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);
+	--background:					url(https://raw.githubusercontent.com/kgungor34/BD/master/background.jpg);
 	--backgroundposition:			center;
 	--backgroundsize:				cover;
 	--backgroundblur:				unset;
